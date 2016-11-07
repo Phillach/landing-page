@@ -403,6 +403,9 @@ template {
 [hidden] {
   display: none; }
 
+body {
+  font-family: "Indie Flower", cursive; }
+
 .landing-page {
   height: 100vh;
   background-image: url(../img/bg.jpg);
@@ -430,5 +433,16 @@ template {
   border: none;
   margin-top: 30px;
   margin-bottom: 30px; }
+
+.first-name {
+  background: black;
+  padding-left: 10px;
+  padding-right: 10px; }
+
+.last-name {
+  background: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 40px; }
 
 /*# sourceMappingURL=main.css.map */
